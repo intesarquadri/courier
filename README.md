@@ -1,6 +1,5 @@
 # Courier CLI for Everest Engineering coding test
 
-Foobar is a Python library for dealing with word pluralization.
 
 ## Installation
 
